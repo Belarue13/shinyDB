@@ -1,6 +1,8 @@
 # shinyDB
 Program to calculate shiny odds in pokemon games based on location and previous encounters. All data must be user generated. I only added pokemon ruby and sapphire Fiery Path.
 
+**REQUIRES JDK 20+ AND WINDOWS**
+
 Note: when prompted to enter a game name, if the txt doesnt exist for it yet, one will be made for you.
 
 [p] - calculate the odds of encountering a pokemon at a location + its shiny rate.
